@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Switch.dir/main.cpp.o -o Switch 
