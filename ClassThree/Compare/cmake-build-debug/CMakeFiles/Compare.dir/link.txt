@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Compare.dir/main.cpp.o -o Compare 

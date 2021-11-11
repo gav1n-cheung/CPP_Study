@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Operator.dir/main.cpp.o -o Operator 

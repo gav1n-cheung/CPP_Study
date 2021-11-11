@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/FloatingPoint.dir/main.cpp.o -o FloatingPoint 

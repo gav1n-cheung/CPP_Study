@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Logic.dir/main.cpp.o -o Logic 
