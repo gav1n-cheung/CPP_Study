@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/PointerPractise.dir/main.cpp.o -o PointerPractise 

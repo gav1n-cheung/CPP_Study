@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/StructToArgs.dir/main.cpp.o -o StructToArgs 

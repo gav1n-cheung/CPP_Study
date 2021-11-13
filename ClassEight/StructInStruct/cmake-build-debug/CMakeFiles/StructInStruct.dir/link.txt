@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/StructInStruct.dir/main.cpp.o -o StructInStruct 

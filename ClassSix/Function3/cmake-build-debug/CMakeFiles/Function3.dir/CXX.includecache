@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSix/Function3/main.cpp
+iostream
+-
+swap.h
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSix/Function3/swap.h
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSix/Function3/swap.cpp
+swap.h
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSix/Function3/swap.h
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSix/Function3/swap.h
+iostream
+-
+

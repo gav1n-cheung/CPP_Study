@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ArrayPractise.dir/main.cpp.o -o ArrayPractise 

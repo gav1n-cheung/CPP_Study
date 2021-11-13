@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/PointerAndFunction.dir/main.cpp.o -o PointerAndFunction 

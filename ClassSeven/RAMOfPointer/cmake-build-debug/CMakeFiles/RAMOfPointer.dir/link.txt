@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/RAMOfPointer.dir/main.cpp.o -o RAMOfPointer 

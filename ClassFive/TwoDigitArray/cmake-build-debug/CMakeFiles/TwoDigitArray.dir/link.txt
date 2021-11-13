@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TwoDigitArray.dir/main.cpp.o -o TwoDigitArray 

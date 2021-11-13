@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/StructArray.dir/main.cpp.o -o StructArray 

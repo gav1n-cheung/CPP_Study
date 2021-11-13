@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/StructPointer.dir/main.cpp.o -o StructPointer 

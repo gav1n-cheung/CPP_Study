@@ -1,0 +1,3 @@
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSeven/Pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSeven/Pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassSeven/Pointer/cmake-build-debug/CMakeFiles/Pointer.dir
