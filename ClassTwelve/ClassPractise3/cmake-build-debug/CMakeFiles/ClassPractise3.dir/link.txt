@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ClassPractise3.dir/main.cpp.o CMakeFiles/ClassPractise3.dir/Point.cpp.o CMakeFiles/ClassPractise3.dir/Circle.cpp.o -o ClassPractise3 

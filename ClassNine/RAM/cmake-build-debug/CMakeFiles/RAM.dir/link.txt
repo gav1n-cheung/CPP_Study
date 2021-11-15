@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/RAM.dir/main.cpp.o -o RAM 

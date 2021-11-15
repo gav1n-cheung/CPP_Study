@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/QuoteToFuncAug.dir/main.cpp.o -o QuoteToFuncAug 

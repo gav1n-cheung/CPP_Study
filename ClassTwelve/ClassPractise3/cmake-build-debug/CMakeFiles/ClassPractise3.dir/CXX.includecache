@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassTwelve/ClassPractise3/Circle.h
+iostream
+-
+math.h
+-
+Point.h
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassTwelve/ClassPractise3/Point.h
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassTwelve/ClassPractise3/Point.h
+iostream
+-
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassTwelve/ClassPractise3/main.cpp
+iostream
+-
+Point.h
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassTwelve/ClassPractise3/Point.h
+Circle.h
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassTwelve/ClassPractise3/Circle.h
+
