@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/While.dir/main.cpp.o -o While 

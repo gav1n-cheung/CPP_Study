@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cheung/Desktop/Program/CPPProgram/HeiMaCPP/ClassFour/WhilePractise/main.cpp
+iostream
+-
+ctime
+-
+

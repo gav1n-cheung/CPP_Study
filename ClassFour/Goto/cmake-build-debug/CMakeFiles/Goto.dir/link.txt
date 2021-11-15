@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Goto.dir/main.cpp.o -o Goto 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/WhilePractise.dir/main.cpp.o -o WhilePractise 
