@@ -1,6 +1,7 @@
 ## 内存分配
 
 ### 内存分区模型
+<a href="https://ibb.co/Ybk13Rd"><img src="https://i.ibb.co/jHMQT6w/drawio-1.png" alt="drawio-1" border="0"></a>
 ```
 C++程序在执行时，将内存大致分为4个区域
 （1）代码区：存放函数体的二进制代码，由操作系统进行管理
