@@ -33,7 +33,7 @@ const修饰指针有三种情况：
 （3）const既修饰指针，又修饰常量
 const右侧挨着*，则修饰指针为常量指针，const右侧挨着常量，则修饰常量为指针常量；const修饰谁，谁就不可以被修改；比如修饰*,则不可以修改指针指向，修改常量，则不可以修改指向的值
 ```
-![avatar](https://ibb.co/JvKh9Q4)
+![avatar](<a href="https://imgbb.com/"><img src="https://i.ibb.co/F5KPFVM/drawio.png" alt="drawio" border="0"></a>)
 
 ### 指针和数组
 ```
