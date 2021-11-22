@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Tomomoto.dir/main.cpp.o -o Tomomoto 

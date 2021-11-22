@@ -31,7 +31,11 @@ const修饰指针有三种情况：
 （1）const修饰指针 -- 常量指针
 （2）const修饰常量 -- 指针常量
 （3）const既修饰指针，又修饰常量
-const右侧挨着*，则修饰指针为常量指针，const右侧挨着常量，则修饰常量为指针常量；const修饰谁，谁就不可以被修改；比如修饰*,则不可以修改指针指向，修改常量，则不可以修改指向的值
+以const int *p; 和 int *const p为例：
+const右侧挨着 int*，则修饰指针为常量指针，const右侧挨着常量，则修饰常量为指针常量；  
+const修饰谁，谁就不可以被修改；  
+比如修饰 类型*,则不可以修改指向值;以const int *p为例，*p不可被修改，p可以被修改；而int *const p;则不可以修改p（即可修改指向）但是可以修改*p(即可修改内容)
+修改常量，则不可以修改指向的值
 ```
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/F5KPFVM/drawio.png" alt="drawio" border="0"></a>
 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/InheritSameNameStaticMember.dir/main.cpp.o -o InheritSameNameStaticMember 

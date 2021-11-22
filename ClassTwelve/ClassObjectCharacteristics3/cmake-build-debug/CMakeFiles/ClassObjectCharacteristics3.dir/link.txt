@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ClassObjectCharacteristics3.dir/main.cpp.o -o ClassObjectCharacteristics3 

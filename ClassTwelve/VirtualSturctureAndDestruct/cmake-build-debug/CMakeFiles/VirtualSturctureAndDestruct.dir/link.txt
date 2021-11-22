@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/VirtualSturctureAndDestruct.dir/main.cpp.o -o VirtualSturctureAndDestruct 
