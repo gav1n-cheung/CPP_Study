@@ -110,3 +110,51 @@ https://www.bilibili.com/video/BV1et411b73Z?p=1
 [类练习(圆和点的位置关系)](
     https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassPractise2
 )  
+[对象模型和this指针](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/MemberModelAndThisPointer)
+[this指针](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ThisPointer)
+[const修饰成员函数]()
+[空指针](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/NullPtr)
+[静态成员](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ConstWithMemberFunc)
+[友元](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/Tomomoto)
+[其他类的成员函数做友元](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassFuncToTomomoto)
+
+### Class Thirteen 构造函数和析构函数
+[构造函数和析构函数概述](https://github.com/gav1n-cheung/CPP_Study/blob/main/ClassTwelve/ClassObjectCharacteristics1)
+[调用构造函数的三种方法](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassObjectCharacteristics2)
+[拷贝构造函数的使用时机](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassObjectCharacteristics3)
+[构造函数调用规则](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassObjectCharacteristics4)
+[深拷贝和浅拷贝](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassObjectCharacteristics5)
+[初始化参数列表](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassObjectCharacteristics6)
+[其他类对象作为本类的成员时的析构和构造](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/ClassInClass)
+
+
+### Class Fourteen 继承
+[继承概述](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/Inherit)
+[继承方式](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/InheritMethod)
+[继承中的对象模型](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/InheritMemberModel)
+[继承中的构造和析构](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/InheritStructureAndDestruct)
+[继承中的同名成员处理](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/InheritSameNameMember)
+[继承同名静态成员处理](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/InheritSameNameStaticMember)
+[多继承](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/MuliInheritGrammar)
+[菱形继承](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/DiamondInheritance)
+
+### 多态
+[多态概述](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/Polymorphism)
+[纯虚函数和抽象类](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/PureVirtualFunction)
+[虚析构和纯虚析构](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/VirtualSturctureAndDestruct)
+
+### 文件操作
+[文件操作概述和文本文件的读写](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/DocOperate)
+[二进制文件的读写](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/BinaryDoc)
+
+### 操作符重载
+[算数运算符重载](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/OperatorReholding)
+[递增运算符重载](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/IncreaseReholding)
+[赋值运算符重载](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/AssignmentOperatorReholding)
+[关系运算符重载](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/RelationalOperatorReholding)
+[函数调用运算符重载](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/FuncTransferReholding)
+[左移运算符重载](https://github.com/gav1n-cheung/CPP_Study/tree/main/ClassTwelve/LeftMoveReholding)
+
+### 公司员工管理系统
+[练习]()
+

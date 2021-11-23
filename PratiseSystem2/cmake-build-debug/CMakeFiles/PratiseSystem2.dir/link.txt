@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/PratiseSystem2.dir/main.cpp.o CMakeFiles/PratiseSystem2.dir/Staff.cpp.o CMakeFiles/PratiseSystem2.dir/Menu.cpp.o -o PratiseSystem2 
